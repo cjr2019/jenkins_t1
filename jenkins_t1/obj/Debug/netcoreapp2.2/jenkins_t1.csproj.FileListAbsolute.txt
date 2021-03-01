@@ -8,7 +8,6 @@ E:\学习资料\JenkinsTest\jenkins_t1\jenkins_t1\bin\Debug\netcoreapp2.2\jenkin
 E:\学习资料\JenkinsTest\jenkins_t1\jenkins_t1\bin\Debug\netcoreapp2.2\jenkins_t1.runtimeconfig.dev.json
 E:\学习资料\JenkinsTest\jenkins_t1\jenkins_t1\bin\Debug\netcoreapp2.2\jenkins_t1.dll
 E:\学习资料\JenkinsTest\jenkins_t1\jenkins_t1\bin\Debug\netcoreapp2.2\jenkins_t1.pdb
-E:\学习资料\JenkinsTest\jenkins_t1\jenkins_t1\obj\Debug\netcoreapp2.2\jenkins_t1.csprojAssemblyReference.cache
 E:\学习资料\JenkinsTest\jenkins_t1\jenkins_t1\obj\Debug\netcoreapp2.2\jenkins_t1.csproj.CoreCompileInputs.cache
 E:\学习资料\JenkinsTest\jenkins_t1\jenkins_t1\obj\Debug\netcoreapp2.2\jenkins_t1.RazorAssemblyInfo.cache
 E:\学习资料\JenkinsTest\jenkins_t1\jenkins_t1\obj\Debug\netcoreapp2.2\jenkins_t1.RazorAssemblyInfo.cs
