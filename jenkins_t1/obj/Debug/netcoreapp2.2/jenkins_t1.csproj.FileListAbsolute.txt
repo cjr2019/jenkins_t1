@@ -15,3 +15,4 @@ E:\学习资料\JenkinsTest\jenkins_t1\jenkins_t1\obj\Debug\netcoreapp2.2\jenkin
 E:\学习资料\JenkinsTest\jenkins_t1\jenkins_t1\obj\Debug\netcoreapp2.2\jenkins_t1.dll
 E:\学习资料\JenkinsTest\jenkins_t1\jenkins_t1\obj\Debug\netcoreapp2.2\jenkins_t1.pdb
 E:\学习资料\JenkinsTest\jenkins_t1\jenkins_t1\obj\Debug\netcoreapp2.2\jenkins_t1.genruntimeconfig.cache
+E:\学习资料\JenkinsTest\jenkins_t1\jenkins_t1\obj\Debug\netcoreapp2.2\jenkins_t1.csprojAssemblyReference.cache
